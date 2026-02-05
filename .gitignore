@@ -1,0 +1,28 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio / Rider files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.vcxproj.user
+*.csproj.user
+.vscode/
+.idea/
+.vs/
+
+# NuGet packages
+*.nupkg
+packages/
+
+# Resharper
+*.DotSettings.user
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
